@@ -83,18 +83,18 @@
 	"images":[
 		{
 			"mimeType":"image/jpeg",
-			"name":"Normal.jpg",
-			"uri":"../../../Mein%20Studium/BA/3d_models/chisel/textures/Normal.jpg"
+			"name":"Normal",
+			"uri":"Normal.jpg"
 		},
 		{
 			"mimeType":"image/jpeg",
-			"name":"Albedo.jpg",
-			"uri":"../../../Mein%20Studium/BA/3d_models/chisel/textures/Albedo.jpg"
+			"name":"Albedo",
+			"uri":"Albedo.jpg"
 		},
 		{
-			"mimeType":"image/jpeg",
-			"name":"Gloss.jpg",
-			"uri":"../../../Mein%20Studium/BA/3d_models/chisel/textures/Gloss.jpg"
+			"mimeType":"image/png",
+			"name":"Gloss",
+			"uri":"Gloss.png"
 		}
 	],
 	"accessors":[

@@ -161,8 +161,8 @@
 	"images":[
 		{
 			"mimeType":"image/jpeg",
-			"name":"Foto_nietplatte_vorneUNDhinten.jpg",
-			"uri":"../../Foto_nietplatte_vorneUNDhinten.jpg"
+			"name":"Foto_nietplatte_vorneUNDhinten",
+			"uri":"Foto_nietplatte_vorneUNDhinten.jpg"
 		}
 	],
 	"accessors":[
