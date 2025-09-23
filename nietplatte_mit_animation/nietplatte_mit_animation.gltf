@@ -151,7 +151,7 @@
 			"componentType":5126,
 			"count":2,
 			"max":[
-				2.9166666666666665
+				5.833333333333333
 			],
 			"min":[
 				0.041666666666666664
@@ -167,9 +167,9 @@
 		{
 			"bufferView":6,
 			"componentType":5126,
-			"count":70,
+			"count":140,
 			"max":[
-				2.9166666666666665
+				5.833333333333333
 			],
 			"min":[
 				0.041666666666666664
@@ -179,13 +179,13 @@
 		{
 			"bufferView":7,
 			"componentType":5126,
-			"count":70,
+			"count":140,
 			"type":"VEC4"
 		},
 		{
 			"bufferView":8,
 			"componentType":5126,
-			"count":70,
+			"count":140,
 			"type":"VEC3"
 		}
 	],
@@ -226,18 +226,18 @@
 		},
 		{
 			"buffer":0,
-			"byteLength":280,
+			"byteLength":560,
 			"byteOffset":9241040
 		},
 		{
 			"buffer":0,
-			"byteLength":1120,
-			"byteOffset":9241320
+			"byteLength":2240,
+			"byteOffset":9241600
 		},
 		{
 			"buffer":0,
-			"byteLength":840,
-			"byteOffset":9242440
+			"byteLength":1680,
+			"byteOffset":9243840
 		}
 	],
 	"samplers":[
@@ -248,7 +248,7 @@
 	],
 	"buffers":[
 		{
-			"byteLength":9243280,
+			"byteLength":9245520,
 			"uri":"nietplatte_mit_animation.bin"
 		}
 	]
