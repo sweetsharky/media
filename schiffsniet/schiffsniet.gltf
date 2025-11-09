@@ -85,7 +85,7 @@
 		{
 			"bufferView":0,
 			"componentType":5126,
-			"count":658946,
+			"count":658403,
 			"max":[
 				13.761133193969727,
 				23.493896484375,
@@ -101,13 +101,13 @@
 		{
 			"bufferView":1,
 			"componentType":5126,
-			"count":658946,
+			"count":658403,
 			"type":"VEC3"
 		},
 		{
 			"bufferView":2,
 			"componentType":5126,
-			"count":658946,
+			"count":658403,
 			"type":"VEC2"
 		},
 		{
@@ -120,26 +120,26 @@
 	"bufferViews":[
 		{
 			"buffer":0,
-			"byteLength":7907352,
+			"byteLength":7900836,
 			"byteOffset":0,
 			"target":34962
 		},
 		{
 			"buffer":0,
-			"byteLength":7907352,
-			"byteOffset":7907352,
+			"byteLength":7900836,
+			"byteOffset":7900836,
 			"target":34962
 		},
 		{
 			"buffer":0,
-			"byteLength":5271568,
-			"byteOffset":15814704,
+			"byteLength":5267224,
+			"byteOffset":15801672,
 			"target":34962
 		},
 		{
 			"buffer":0,
 			"byteLength":2636664,
-			"byteOffset":21086272,
+			"byteOffset":21068896,
 			"target":34963
 		}
 	],
@@ -151,7 +151,7 @@
 	],
 	"buffers":[
 		{
-			"byteLength":23722936,
+			"byteLength":23705560,
 			"uri":"schiffsniet.bin"
 		}
 	]
