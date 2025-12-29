@@ -441,7 +441,7 @@
 		},
 		{
 			"mesh":9,
-			"name":"modelNietplatte_eng.001",
+			"name":"nietplattenteil",
 			"rotation":[
 				-0.12354721873998642,
 				0.4617788791656494,
@@ -640,7 +640,7 @@
 			]
 		},
 		{
-			"name":"modelNietplatteGroup2.003",
+			"name":"nietplattenteil",
 			"primitives":[
 				{
 					"attributes":{
