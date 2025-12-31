@@ -73,15 +73,15 @@
 	"images":[
 		{
 			"mimeType":"image/jpeg",
-			"name":"schiffsniet",
-			"uri":"schiffsniet.jpg"
+			"name":"Artefakt-12",
+			"uri":"Artefakt-12.jpg"
 		}
 	],
 	"accessors":[
 		{
 			"bufferView":0,
 			"componentType":5126,
-			"count":658403,
+			"count":658399,
 			"max":[
 				13.761133193969727,
 				23.493896484375,
@@ -97,13 +97,13 @@
 		{
 			"bufferView":1,
 			"componentType":5126,
-			"count":658403,
+			"count":658399,
 			"type":"VEC3"
 		},
 		{
 			"bufferView":2,
 			"componentType":5126,
-			"count":658403,
+			"count":658399,
 			"type":"VEC2"
 		},
 		{
@@ -116,26 +116,26 @@
 	"bufferViews":[
 		{
 			"buffer":0,
-			"byteLength":7900836,
+			"byteLength":7900788,
 			"byteOffset":0,
 			"target":34962
 		},
 		{
 			"buffer":0,
-			"byteLength":7900836,
-			"byteOffset":7900836,
+			"byteLength":7900788,
+			"byteOffset":7900788,
 			"target":34962
 		},
 		{
 			"buffer":0,
-			"byteLength":5267224,
-			"byteOffset":15801672,
+			"byteLength":5267192,
+			"byteOffset":15801576,
 			"target":34962
 		},
 		{
 			"buffer":0,
 			"byteLength":2636664,
-			"byteOffset":21068896,
+			"byteOffset":21068768,
 			"target":34963
 		}
 	],
@@ -147,7 +147,7 @@
 	],
 	"buffers":[
 		{
-			"byteLength":23705560,
+			"byteLength":23705432,
 			"uri":"schiffsniet.bin"
 		}
 	]
