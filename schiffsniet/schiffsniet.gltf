@@ -72,9 +72,9 @@
 	],
 	"images":[
 		{
-			"mimeType":"image/jpeg",
-			"name":"Artefakt-12",
-			"uri":"Artefakt-12.jpg"
+			"mimeType":"image/png",
+			"name":"metallTextur",
+			"uri":"metallTextur.png"
 		}
 	],
 	"accessors":[
