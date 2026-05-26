@@ -61,6 +61,9 @@
 			},
 			"name":"_texture",
 			"pbrMetallicRoughness":{
+				"baseColorTexture":{
+					"index":0
+				},
 				"metallicFactor":0
 			}
 		}
@@ -79,6 +82,19 @@
 					"material":0
 				}
 			]
+		}
+	],
+	"textures":[
+		{
+			"sampler":0,
+			"source":0
+		}
+	],
+	"images":[
+		{
+			"mimeType":"image/png",
+			"name":"Schiffsniet__materia_zusammengesetzt.png.001",
+			"uri":"../../../../AR%20-%20Wikinger%20in%20Duisburg/02_Bilder/schiffsniet_museum_till_krieg/bearbeitet/Schiffsniet__materia_zusammengesetzt.png"
 		}
 	],
 	"accessors":[
@@ -141,6 +157,12 @@
 			"byteLength":2636664,
 			"byteOffset":21071680,
 			"target":34963
+		}
+	],
+	"samplers":[
+		{
+			"magFilter":9729,
+			"minFilter":9987
 		}
 	],
 	"buffers":[
